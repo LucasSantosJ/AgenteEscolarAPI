@@ -32,5 +32,12 @@
 "cep": "12345-004",
 "nomeResponsavel": "Beatriz Oliveira"
 }
-]
+],
+  
+  "perfil": {
+    "id": 1,
+    "nome": "Agente Exemplo (Seu Nome)",
+    "email": "seu-email@dominio.com",
+    "matricula": "123456"
+  }
 }
