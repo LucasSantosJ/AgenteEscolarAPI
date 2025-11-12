@@ -36,8 +36,8 @@
   
   "perfil": {
     "id": 1,
-    "nome": "Agente Exemplo (Seu Nome)",
-    "email": "seu-email@dominio.com",
+    "nome": "Agente Exemplo",
+    "email": "email@dominio.com",
     "matricula": "123456"
   }
 }
