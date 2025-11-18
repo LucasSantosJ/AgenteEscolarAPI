@@ -1,37 +1,36 @@
 {
-"alunos": [
-{
-"id": "1",
-"nome": "Maria Silva",
-"escola": "E.M. Prof. Ana Costa",
-"status": "Aguardando Visita",
-"cep": "12345-001",
-"nomeResponsavel": "Joana Silva"
-},
-{
-"id": "2",
-"nome": "João Pereira",
-"escola": "E.M. Irmãos Andrade",
-"status": "Em Dia",
-"cep": "12345-002",
-"nomeResponsavel": "Marcos Pereira"
-},
-{
-"id": "3",
-"nome": "Ana Souza",
-"escola": "C.E. Getúlio Vargas",
-"status": "Aguardando Visita",
-"cep": "12345-003",
-"nomeResponsavel": "Carlos Souza"
-},
-{
-"id": "4",
-"nome": "Carlos Oliveira",
-"escola": "E.M. Prof. Ana Costa",
-"status": "Ativo",
-"cep": "12345-004",
-"nomeResponsavel": "Beatriz Oliveira"
-}
-],
-  
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Maria Silva",
+      "escola": "E.M. Prof. Ana Costa",
+      "status": "Aguardando Visita",
+      "cep": "12345-001",
+      "nomeResponsavel": "Joana Silva"
+    },
+    {
+      "id": "2",
+      "nome": "João Pereira",
+      "escola": "E.M. Irmãos Andrade",
+      "status": "Em Dia",
+      "cep": "12345-002",
+      "nomeResponsavel": "Marcos Pereira"
+    },
+    {
+      "id": "3",
+      "nome": "Ana Souza",
+      "escola": "C.E. Getúlio Vargas",
+      "status": "Aguardando Visita",
+      "cep": "12345-003",
+      "nomeResponsavel": "Carlos Souza"
+    },
+    {
+      "id": "4",
+      "nome": "Carlos Oliveira",
+      "escola": "E.M. Prof. Ana Costa",
+      "status": "Ativo",
+      "cep": "12345-004",
+      "nomeResponsavel": "Beatriz Oliveira"
+    }
+  ]
 }
