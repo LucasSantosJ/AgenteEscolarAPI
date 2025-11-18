@@ -34,10 +34,4 @@
 }
 ],
   
-  "perfil": {
-    "id": 1,
-    "nome": "Agente Exemplo",
-    "email": "email@dominio.com",
-    "matricula": "123456"
-  }
 }
